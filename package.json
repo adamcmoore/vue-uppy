@@ -1,0 +1,19 @@
+{
+  "name": "vue-uppy",
+  "version": "0.0.1",
+  "description": "A Vue Component for Uppy",
+  "author": "Adam Moore <hello@acmoore.co.uk>",
+  "private": true,
+  "dependencies": {
+    "@uppy/core": "^1.8.2",
+    "@uppy/dashboard": "^1.6.2",
+    "@uppy/drag-drop": "^1.4.6",
+    "@uppy/dropbox": "^1.3.8",
+    "@uppy/golden-retriever": "^1.3.8",
+    "@uppy/google-drive": "^1.4.2",
+    "@uppy/onedrive": "^1.0.2",
+    "@uppy/status-bar": "^1.5.2",
+    "@uppy/xhr-upload": "^1.5.2",
+    "vue": "^2.3.3"
+  }
+}
